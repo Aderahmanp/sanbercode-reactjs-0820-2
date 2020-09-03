@@ -9,7 +9,7 @@ function App() {
         <h1 className="form"> <b>Form Pembeli Buah</b></h1>
         <form>
           <div className="pelanggan">
-            <label><b>nama Pelanggan</b></label>
+            <label><b>Nama Pelanggan</b></label>
             <input className="input" type="text"></input>
           </div>
           
