@@ -54,4 +54,22 @@ body {
   text-align: center;
 }
 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px; /* 5px rounded corners */;
+  border:solid 1px black;
+  margin:20px;
+}
 
+.flex{
+  display: flex;
+  flex-wrap: nowrap ;
+}
+
+
+.photo {
+  width: 30rem;
+  height: 22rem;
+  border-radius: 10px;
+}
