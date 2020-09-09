@@ -3,7 +3,8 @@ import React from 'react';
 // import Card from './Tugas-10/card'
 // import TableBuah from './Tugas-10/tugas10'
 // import Timer from './Tugas-11/timer'
-import FormBuah from './Tugas-12/FormBuah'
+// import FormBuah from './Tugas-12/FormBuah'
+import FormBuah from './Tugas-13/FormBuah'
 import './App.css';
 
 function App() {
