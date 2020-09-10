@@ -4,7 +4,8 @@ import React from 'react';
 // import TableBuah from './Tugas-10/tugas10'
 // import Timer from './Tugas-11/timer'
 // import FormBuah from './Tugas-12/FormBuah'
-import FormBuah from './Tugas-13/FormBuah'
+// import FormBuah from './Tugas-13/FormBuah'
+import Buah from './Tugas-14/Buah'
 import './App.css';
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
       {/* <Form/> */}
       {/* <TableBuah/> */}
       {/* <Timer/> */}
-      <FormBuah/>
+      {/* <FormBuah/> */}
+      <Buah/>
     </div>
   );
 }
